@@ -1,0 +1,2 @@
+e_breathy_long	e_breathy_short	e_modal_long	e_modal_short	m_breathy_long	m_breathy_short	m_modal_long	m_modal_short
+0.39200000	0.17600000	0.11382114	0.03968254	0.92800000	0.87804878	0.73504274	0.37288136
